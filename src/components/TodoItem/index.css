@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2px;
+}
+
+.button {
+  padding: 5px;
+  height: 40px;
+  border-radius: 5px;
+  border-width: 1px;
+}
+
+.description {
+  font-family: Roboto;
+  font-size: 20px;
+  color: #000000;
+  margin-right: 10px;
+}
